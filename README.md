@@ -24,7 +24,7 @@ This project simulates real networking ideas in a visual and interactive way:
 - **Scene 4:** Network congestion caused by real-world news events (ex. latency spikes / high-frequency traffic)
 - **Scene 5:** Final routing decision and delivery to destination node
 
-Players learna how packets move through networks, how congestion affects delivery of packets, and how encapsulation and encryption protect the data inside packets.
+Players learns how packets move through networks, how congestion affects delivery of packets, and how encapsulation and encryption protects the data inside packets.
 
 ---
 
@@ -41,8 +41,6 @@ Players learna how packets move through networks, how congestion affects deliver
 
 
 ## Problem tackled:
-Networking concepts are often difficult to visualize as real world networks are vast and complex. This project solves that by turning the packet flow, routing decisions, and network conditions into a game. It helps users understand how real world internet traffic behaves under different conditions.
+Networking concepts are often difficult to visualize as real world networks are vast and complex. This project solves that by turning the packet flow, routing decisions, and network conditions into a game. It helps players understand how real world internet traffic behaves under different conditions.
 Due to our lack of background in game making and Computer Networking, understanding the basics and deciding on the final scenes was one of the many challenges we faced. Additional challeges faced were mostly basic bugs like a broken next button, scene configuration, unclear instructions, and lack of information in gameplay. These challeges were solved throguh teamwork and a lot of debugging. 
 
-## How it works:
-Each scene represents a different networking layer or concept. The player controls a packet and must make routing decisions, avoid congestion, and successfully deliver data to the destination.
