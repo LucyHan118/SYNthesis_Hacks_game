@@ -1,5 +1,10 @@
 # SYNthesis_Hacks_game
 
+
+## Category:
+Beginner Track 
+
+---
 ## Project Name:
 NETWORK ODYSSEY 
 
@@ -7,11 +12,6 @@ NETWORK ODYSSEY
 NETWORK ODYSSEY is a 2D educational networking game built using Phaser.js. The player navigates a data packet through different network environments, learning important networking concepts such as TCP vs UDP, routing, TTL (Time To Live), encapsulation, encryption, and network congestion.
 
 The game visualizes networking principles into an interactive gameplay. Each scene represents a different challenge in real-world internet communication.
-
----
-
-## Category:
-Beginner Track 
 
 ---
 
