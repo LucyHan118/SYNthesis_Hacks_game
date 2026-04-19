@@ -1,5 +1,7 @@
 # SYNthesis_Hacks_game
 
+# Contributors:
+Lucy Han, Anushka Heda
 
 ## Category:
 Beginner Track 
